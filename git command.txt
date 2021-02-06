@@ -1,0 +1,12 @@
+git status
+git add .
+git status
+git commit 
+i
+add some text
+esc
+:wq
+git push
+
+for adding the repository
+git clone url
